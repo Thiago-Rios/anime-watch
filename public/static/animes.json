@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "imagem": "https://www.comboinfinito.com.br/principal/wp-content/uploads/2019/03/psycho-pass-3-temporada.jpg",
+        "nome": "Psycho-pass",
+        "avaliacao": 5,
+        "status": 1,
+        "sinopse": "A justiça e sua aplicação mudou. No século 22, o Japão impõe o Sistema Sibyl, um meio objetivo de determinar o nível de ameaça de cada cidadão, examinando seu estado mental em busca de sinais de intenção criminosa, conhecida como Psycho-Pass. Os inspetores defendem a lei subjugando, freqüentemente com força letal, qualquer pessoa que abrigue a menor má vontade; ao lado deles, estão os Executores, inspectores cansados que se tornaram criminosos latentes, com relativa liberdade em troca da realização do trabalho sujo dos inspetores. Neste mundo entra Akane Tsunemori, uma jovem mulher com um desejo sincero de defender a justiça. No entanto, ao trabalhar com o veterano Enforcer Shinya Kougami, ela logo descobre que os julgamentos do Sistema Sibyl não são tão perfeitos quanto seus colegas Inspetores supõem. Com tudo o que ela sabia virado de cabeça para baixo, Akane luta com a questão do que realmente é a justiça e se ela pode ser sustentada pelo uso de um sistema que já pode estar corrompido."
+    },
+    {
+        "id": 2,
+        "imagem": "https://www.einerd.com.br/wp-content/uploads/2019/09/One-Piece-capa-890x466.png",
+        "nome": "One Piece",
+        "avaliacao": 5,
+        "status": 0,
+        "sinopse": "Houve um homem que conquistou tudo aquilo que o mundo tinha a oferecer, o lendário Rei dos Piratas, Gold Roger. Capturado e condenado à execução pelo Governo Mundial, suas últimas palavras lançaram legiões aos mares. 'Meu tesouro? Se quiserem, podem pegá-lo. Procurem-no! Ele contém tudo que este mundo pode oferecer!'. Foi a revelação do maior tesouro, o One Piece, cobiçado por homens de todo o mundo, sonhando com fama e riqueza imensuráveis... Assim começou a Grande Era dos Piratas!Monkey D. Luffy de 17 anos, desafia a definição de pirata. Sem a típica personalidade vil e cruel, suas motivações são simples: a aventura e as possibilidades de conhecer novos amigos. Luffy e seus companheiros partem em direção à Grand Line, a mais perigosa das rotas do mundo, em incríveis aventuras, revelando mistérios e enfrentando poderosos oponentes em busca do One Piece."
+    },
+    {
+        "id": 3,
+        "imagem": "https://www.animeunited.com.br/wp-content/uploads/2018/09/Toaru-Majutsu-no-Index-III.jpg",
+        "nome": "Toaru majutsu no index",
+        "avaliacao": 2,
+        "status": 2,
+        "sinopse": "Academy City, no Japão, está na vanguarda da ciência. Além de estar 30 anos à frente do mundo tecnologicamente, mais de três quartos dessa população peculiar da cidade consiste em estudantes desenvolvendo suas habilidades psíquicas como espiões em várias instituições. Entre esses estudantes está Touma Kamijou, um menino do ensino médio com o nível psíquico mais baixo de zero, mas com um poder misterioso que nenhum cientista pode entender: 'Imagine Breaker', que lhe permite negar outras habilidades sobrenaturais. Isso, no entanto, não afeta a vida de Kamijou, no mínimo, enquanto ele interpreta seu papel como adolescente regular; isto é, até que ele encontre o estranho Index Librorum Prohibitorum, uma jovem que memorizou a totalidade dos grimórios proibidos, e agora uma organização perigosa está caçando o Index down. Com vários magos tentando prejudicar a garota, Kamijou defenderá seu novo companheiro a qualquer custo, enquanto descobre um estranho novo reino do sobrenatural."
+    }
+]
