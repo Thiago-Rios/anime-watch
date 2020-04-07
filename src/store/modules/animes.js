@@ -12,14 +12,14 @@ const getters = {
 const actions = {
     getAnimes({ commit }) {
         axios.get("static/animes.json").then((response) => {
-            commit('getAnimes', response.data);
+            commit('getAnimes', response.data)
         })
     },
     addAnime({commit} , new_anime){
-      commit('addAnime', new_anime);
+      commit('addAnime', new_anime)
     },
     deleteAnime({ commit }, id) {
-        commit("removeAnime", id);
+        commit("removeAnime", id)
     }
 }
 
