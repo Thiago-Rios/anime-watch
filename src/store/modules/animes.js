@@ -15,7 +15,7 @@ const actions = {
             commit('getAnimes', response.data)
         })
     },
-    addAnime({commit} , new_anime){
+    addAnime({ commit } , new_anime){
       commit('addAnime', new_anime)
     },
     deleteAnime({ commit }, id) {

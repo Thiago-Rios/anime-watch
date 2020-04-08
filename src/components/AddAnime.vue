@@ -22,7 +22,7 @@
             <div>
                 <input type="submit" id="btnAdd" class="btn btn-outline-primary btn-lg" value="Adicionar">
                 <router-link active-class="active" id="btnVoltar" tag="button" :to="{ name: 'home'}" class="btn btn-outline-primary btn-lg">
-                    Voltar
+                  Voltar
                 </router-link>
             </div>
         </form>
